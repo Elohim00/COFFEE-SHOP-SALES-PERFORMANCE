@@ -72,6 +72,9 @@ Data cleaning steps involved:
 
 ### Results
 
+![COFFEE SALES DASHBOARD.png](https://github.com/Elohim00/COFFEE-SHOP-SALES-PERFORMANCE/blob/main/COFFEE%20SALES%20DASHBOARD.png?raw=true)
+
+
 #### Key Findings
 
 1. **Total Sales Revenue**: $37,509
@@ -87,6 +90,10 @@ Data cleaning steps involved:
    - The coffee shop has served 447 unique customers during this period. This number, compared to the total transactions, suggests that many customers are repeat visitors, which is a positive sign of customer loyalty.
 
 #### Sales Trends Over Time
+
+![COFFEE SALES LINE CHART.png](https://github.com/Elohim00/COFFEE-SHOP-SALES-PERFORMANCE/blob/main/COFFEE%20SALES%20LINE%20CHART.png?raw=true)
+
+
 The line graph displays daily sales trends from March 2024 to July 2024. The graph shows fluctuations in daily sales, with some notable peaks and troughs:
 
 - Overall, there's a slight upward trend in sales over time.
@@ -95,6 +102,8 @@ The line graph displays daily sales trends from March 2024 to July 2024. The gra
 - Towards the end of the period (late July), there's a noticeable uptick in sales, reaching the highest point on the graph..
 
 #### Popular Coffee Types
+
+![COFFEE SALES BAR CHART.png](https://github.com/Elohim00/COFFEE-SHOP-SALES-PERFORMANCE/blob/main/COFFEE%20SALES%20BAR%20CHART.png?raw=true)
 
 The bar chart breaks down sales by coffee type, offering insights into customer preferences:
 
@@ -111,6 +120,8 @@ This information can help the shop manage inventory, focus marketing efforts, an
 
 #### Payment Method Preferences
 
+![COFFEE SALES PIE CHART.png](https://github.com/Elohim00/COFFEE-SHOP-SALES-PERFORMANCE/blob/main/COFFEE%20SALES%20PIE%20CHART.png?raw=true)
+
 The pie chart shows a clear preference among customers for card payments:
 - Card payments: $34,322.9 (91.5% of total sales)
 - Cash payments: $3,186.0 (8.5% of total sales)
@@ -118,6 +129,8 @@ The pie chart shows a clear preference among customers for card payments:
 This overwhelming preference for card payments suggests that the shop should ensure its card payment systems are always functioning smoothly. It might also consider implementing or promoting contactless payment options to further convenience customers.
 
 #### Filtering Options
+
+
 The dashboard allows for filtering by:
 - Month
 - Date
