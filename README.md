@@ -26,14 +26,15 @@ The scope of this analysis includes:
 ### Data Description
 
 #### Data Overview
-
+The dataset to this project can be downloaded ![here](https://github.com/Elohim00/COFFEE-SHOP-SALES-PERFORMANCE/raw/main/COFFEE%20SALES%20DATASET.csv).
 The dataset includes:
 
-- **Total Sales Revenue:** The cumulative revenue generated from coffee sales.
-- **Count of Transactions:** The total number of sales transactions.
-- **Average Transaction Value:** The average value of each sales transaction.
-- **Unique Customers:** The number of distinct customers who made purchases.
-
+- Transaction Date 
+- Transaction Datetime
+- Payment Method 
+- Card ID
+- Sales 
+- Coffee type
 #### Data Cleaning
 
 Data cleaning steps involved:
