@@ -164,7 +164,7 @@ The Coffee Sales Performance Dashboard provides a comprehensive analysis of the 
 ###  Recommendations
 
 ##### Customer Retention:
-With 447 unique customers and 1,133 transactions, each customer visits approximately 2.5 times per year on average. To increase the frequency of visits, the business should consider implementing a loyalty program. This program could offer rewards for frequent visits, such as discounts, free items after a certain number of purchases, or special promotions.
+- With 447 unique customers and 1,133 transactions, each customer visits approximately 2.5 times per year on average. To increase the frequency of visits, the business should consider implementing a loyalty program. This program could offer rewards for frequent visits, such as discounts, free items after a certain number of purchases, or special promotions.
 
 ##### Product Focus:
 
@@ -175,13 +175,13 @@ With 447 unique customers and 1,133 transactions, each customer visits approxima
 - To enhance operational efficiency, it is important to optimize staffing based on daily sales patterns. Additionally, ensuring fast and reliable card payment processing is crucial for maintaining customer satisfaction.
 
 ##### Marketing Strategies
-Creating promotions to boost sales during identified slow periods can be effective. Using social media to highlight popular drinks and introduce new variations is also recommended.
+- Creating promotions to boost sales during identified slow periods can be effective. Using social media to highlight popular drinks and introduce new variations is also recommended.
 
 ##### Menu Engineering
-Top-selling items should be placed prominently on the menu. It is essential to analyze the profitability of each drink type and adjust pricing if needed.
+- Top-selling items should be placed prominently on the menu. It is essential to analyze the profitability of each drink type and adjust pricing if needed.
 
 ##### Seasonal Preparation
--Anticipating and preparing for high-sales periods, particularly in late July, is important. Developing strategies to mitigate sales dips, such as those observed in early July, will help maintain steady sales throughout the year.
+- Anticipating and preparing for high-sales periods, particularly in late July, is important. Developing strategies to mitigate sales dips, such as those observed in early July, will help maintain steady sales throughout the year.
 
 ### Future Work
 
