@@ -183,7 +183,7 @@ Top-selling items should be placed prominently on the menu. It is essential to a
 ##### Seasonal Preparation
 -Anticipating and preparing for high-sales periods, particularly in late July, is important. Developing strategies to mitigate sales dips, such as those observed in early July, will help maintain steady sales throughout the year.
 
-#### Future Work
+### Future Work
 
 Future analysis could focus on:
 
