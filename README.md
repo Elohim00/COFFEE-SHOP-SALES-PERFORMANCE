@@ -4,6 +4,17 @@
 
 In the bustling world of coffee retail, understanding sales performance and customer preferences is crucial for strategic decision-making. The Coffee Sales Performance Dashboard provides a detailed analysis of the coffee shop's performance over a comprehensive period, offering insights that can drive business growth and enhance customer satisfaction. This analysis will delve into key metrics and trends, presenting a story of our coffee shop's journey from March to July 2024.
 
+## Table of Contents
+
+1. [Project Description](#project-description)
+2. [Data Description](#data-description)
+3. [Methodology](#methodology)
+4. [Results](#results)
+5. [Conclusion](#conclusion)
+6. [Analysis and Recommendations](#analysis-and-recommendations)
+7. [Future Work](#future-work)
+
+
 ### Project Description
 
 #### Objective
