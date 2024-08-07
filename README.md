@@ -74,6 +74,11 @@ Data cleaning steps involved:
 
 3. **Comparative Analysis:**
    - Compared the popularity of different coffee types and analyzed payment method preferences.
+  
+   ### Tools and Libraries
+   The tool  utilized for this project is;
+- **Power BI:** For data, cleaning, manipulation, visualization and dashboard creation.
+
 
 #### Visualization Techniques
 
