@@ -161,7 +161,7 @@ The Coffee Sales Performance Dashboard provides a comprehensive analysis of the 
 - Latte emerges as the most popular coffee type, guiding inventory and marketing strategies.
 
 
-#### Analysis and Recommendations
+### Analysis and Recommendations
 
 ##### Customer Retention:
 With 447 unique customers and 1,133 transactions, each customer visits approximately 2.5 times per year on average. To increase the frequency of visits, the business should consider implementing a loyalty program. This program could offer rewards for frequent visits, such as discounts, free items after a certain number of purchases, or special promotions.
