@@ -26,7 +26,7 @@ The scope of this analysis includes:
 ### Data Description
 
 #### Data Overview
-The dataset to this project can be downloaded ![here](https://github.com/Elohim00/COFFEE-SHOP-SALES-PERFORMANCE/raw/main/COFFEE%20SALES%20DATASET.csv).
+The dataset to this project can be downloaded [here](https://github.com/Elohim00/COFFEE-SHOP-SALES-PERFORMANCE/raw/main/COFFEE%20SALES%20DATASET.csv).
 The dataset includes:
 
 - Transaction Date 
